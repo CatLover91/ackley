@@ -1,0 +1,12 @@
+{
+  "name": "AI-Proj-2",
+  "version": "0.0.0",
+  "description": "My solution for assignment 2",
+  "main": "",
+  "repository": "",
+  "author": "Nicholai Goodall",
+  "dependencies": {
+    "mathjs": "^1.0.1",
+    "socket.io": "~0.9.14"
+  }
+}
