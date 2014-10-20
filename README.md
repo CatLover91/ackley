@@ -1,8 +1,5 @@
 The files within this directory contain my solution for Project 2 for cs480.
 
-Nicholai Goodall
-UIN:00945130
-
 This directory contains two programs. search.js is my solution for task 1.
 in order to run it, you must have Node.js installed. You may find installation
 details for this dependency at Nodejs.org. in order to run task 1, run this 
